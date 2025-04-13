@@ -63,7 +63,15 @@ export default function RootLayout({
       <head>
         <meta name="baidu-site-verification" content="codeva-lunAAZMVc3" />
         <meta name="msvalidate.01" content="7B564FE7DF8FFBF367DD9F508778FAB0" />
-        <meta name="google-site-verification" content="FcyZ3FFkRX6-vy3xhW2UA2lfWi8KEYaBB4XscfULvn8" />
+        <meta
+          name="google-site-verification"
+          content="FcyZ3FFkRX6-vy3xhW2UA2lfWi8KEYaBB4XscfULvn8"
+        />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9448338216770987"
+          crossOrigin="anonymous"
+        />
       </head>
       <body className={inter.className}>
         <ThemeProvider
